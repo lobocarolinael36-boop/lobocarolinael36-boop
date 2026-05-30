@@ -1,51 +1,42 @@
-# Nombre del Proyecto
+# Carolina Jackeline Lobo
 
-Descripción concisa del propósito del proyecto. Explica qué problema soluciona y cuál es el valor técnico que aporta.
+Desarrolladora de software con sólida formación técnica y experiencia práctica en el ciclo de vida de desarrollo de sistemas. Enfocada en la creación de soluciones eficientes, escalables y orientadas a la resolución de problemas reales.
 
-## Tecnologías
+## Stack Tecnológico
 
-* **Frontend:** React, JavaScript, HTML5, CSS3
-* **Backend:** Java (o el lenguaje utilizado)
-* **Gestión de Datos:** MySQL / PostgreSQL
-* **Control de Versiones:** Git
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend** | Java, MySQL, PostgreSQL |
+| **Frontend** | JavaScript, React, HTML5, CSS3 |
+| **Herramientas** | Git, VS Code, Audacity |
 
-## Funcionalidades Principales
+## Proyectos Destacados
 
-* **Funcionalidad A:** Breve explicación técnica del proceso.
-* **Funcionalidad B:** Descripción del flujo de datos o lógica implementada.
-* **Seguridad/Calidad:** Menciona si aplicaste estándares (ej. ISO 25010) o buenas prácticas.
+* **Sistema de Gestión Inmobiliaria:** Aplicación desarrollada con React, JavaScript y MySQL para la administración integral de alquileres, listings y procesamiento de pagos.
+* **Sistema de Domótica Residencial:** Prototipo de automatización del hogar diseñado en Tinkercad, utilizando microcontroladores ESP32 para el control y monitoreo de dispositivos.
+**Calculadora de Rutas Logísticas:** Aplicación de escritorio desarrollada en Python (Tkinter) para la optimización de entregas. Integra APIs de geocodificación (Nominatim), trazado vial (OSRM) y datos meteorológicos (Open-Meteo) para calcular rutas eficientes con alertas en tiempo real sobre tráfico y condiciones climáticas.
+* **Plataforma de Prevención Hídrica (Proyecto de Concientización):** Sistema diseñado bajo el marco de los ODS de las Naciones Unidas. Enfocado en la visualización de riesgos ambientales y sanitarios en el Río de la Plata, integrando mapeo interactivo y protocolos de prevención comunitaria (Semáforo de alertas ambientales).
 
-## Requisitos Previos
+## Formación Académica
 
-Para ejecutar este proyecto en un entorno local, asegúrate de tener instalado:
+* **Técnica en Programación:** ET N°36 Almirante Brown.
+* **Formación Técnica Inicial:** ET N°28 Republica Francesa (Electrónica).
 
-* Node.js (vXX.X.X o superior)
-* Java JDK (vXX o superior)
-* MySQL Server (vXX.X)
+## Áreas de Interés y Especialización
 
-## Instalación y Ejecución
+* Desarrollo de software backend/frontend
+* Gestión de bases de datos relacionales.
+* Automatización de tareas y creación de herramientas de red.
 
-1. Clonar el repositorio:
-   `git clone https://github.com/tu-usuario/nombre-del-repo.git`
 
-2. Instalar dependencias:
-   `npm install`
+## Formación Continua
 
-3. Configurar variables de entorno (si aplica) y ejecutar:
-   `npm start`
+* **Idioma:** Inglés (en proceso de perfeccionamiento orientado al ámbito IT).
+* **Calidad de Software:** Conocimientos en modelos de calidad (McCall) y estándares ISO (12207, 25010, 27001).
 
-## Arquitectura y Diseño
+## Contacto
 
-(Opcional: Breve mención sobre patrones de diseño o estructura de carpetas si es un proyecto complejo).
+* [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/carolina-lobo-469705297/))
+* [GitHub]([https://github.com/lobocarolinael36-boop])
+* [Email](lobocarolina99@gmail.com)
 
-## Estado del Proyecto
-
-* [ ] En desarrollo
-* [x] Finalizado
-* [ ] En fase de mantenimiento
-
-## Información de Contacto
-
-**Carolina Jackeline Lobo**  
-Desarrolladora de Software  
-[LinkedIn](https://linkedin.com/in/tu-perfil) | [GitHub](https://github.com/tu-usuario)
