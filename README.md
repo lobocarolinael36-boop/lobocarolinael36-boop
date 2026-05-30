@@ -36,7 +36,7 @@ Desarrolladora de software con sólida formación técnica y experiencia prácti
 
 ## Contacto
 
-* [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/carolina-lobo-469705297/))
-* [GitHub]([https://github.com/lobocarolinael36-boop])
-* [Email](lobocarolina99@gmail.com)
+* [LinkedIn](https://linkedin.com/in/carolina-lobo-469705297)
+* [GitHub](https://github.com/lobocarolinael36-boop)
+* Email: lobocarolina99@gmail.com
 
